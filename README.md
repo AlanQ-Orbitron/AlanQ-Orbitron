@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AlanQ-Orbitron
+-  
+-  Pronouns: He/They
+-  Fun fact: Favorite Number : 6 or 2^16
+-  I mainly use python
