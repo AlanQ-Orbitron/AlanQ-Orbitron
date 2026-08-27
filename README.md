@@ -1,6 +1,19 @@
+I am an avid programmer, primarily developing games and engines.
+I started with Minecraft mods and datapack development before moving to Python, then to Godot.
+
+# Skills
+- Frontend Development
+- 3d Modeling
+- Pixel Art & Traditional Art (No current digital art skills ; - ;)
+- Casual Composer
+- Writer / Novelist
+
+# List of languages and programs
 
 <img width="35.552" height="40" alt="c++" src="https://github.com/user-attachments/assets/2534bb7e-9771-4a62-a82e-bef3c0e130a9" /><img width="40" height="40" alt="icon" src="https://github.com/user-attachments/assets/ad5b676a-4d56-401c-943c-4b0cb46114c0" />
 <img width="40" height="40" alt="typescript" src="https://github.com/user-attachments/assets/34592f26-b800-4411-a569-eed78b88bc3b" />
+<img width="28.336" height="40" alt="html5-2" src="https://github.com/user-attachments/assets/ea1e0cb0-aac7-48c0-8c5c-f72603be1e5c" />
+<img width="34.928" height="40" alt="css-3" src="https://github.com/user-attachments/assets/dd30798d-3979-42dc-bf7a-e70328cc57cc" />
 <img width="40" height="40" alt="javascript-1" src="https://github.com/user-attachments/assets/1a7528c5-6393-47a8-a157-692e4557e395" />
 <img width="37.8037" height="40" alt="java-4" src="https://github.com/user-attachments/assets/df78afd9-6a70-4630-86ea-876551405abf" />
 <img width="40" height="40" alt="python-5" src="https://github.com/user-attachments/assets/585eb494-1947-4f82-b883-e14d562723b4" />
@@ -11,4 +24,3 @@
 <img width="40" height="40" alt="linux-tux" src="https://github.com/user-attachments/assets/06e24503-c18c-4411-b316-8d6d4a9cd4c0" />
 <img width="135.50135501" height="40" alt="arch-linux-logo" src="https://github.com/user-attachments/assets/02dfc66f-9b16-4755-8443-1f316cfec999" />
 <img width="36.4" height="40" alt="minecraft-1" src="https://github.com/user-attachments/assets/82097ad9-2d6a-4fe4-837f-668a16fc3c0d" />
-
