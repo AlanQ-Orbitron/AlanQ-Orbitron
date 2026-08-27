@@ -10,3 +10,5 @@
 <img width="150.8295" height="40" alt="vulkan" src="https://github.com/user-attachments/assets/02c8b995-41c7-4552-b628-5602b85bdfee" />
 <img width="40" height="40" alt="linux-tux" src="https://github.com/user-attachments/assets/06e24503-c18c-4411-b316-8d6d4a9cd4c0" />
 <img width="135.50135501" height="40" alt="arch-linux-logo" src="https://github.com/user-attachments/assets/02dfc66f-9b16-4755-8443-1f316cfec999" />
+<img width="36.4" height="40" alt="minecraft-1" src="https://github.com/user-attachments/assets/82097ad9-2d6a-4fe4-837f-668a16fc3c0d" />
+
